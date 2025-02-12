@@ -1,0 +1,181 @@
+ART
+    FINE ARTS
+        LITERARY ART
+            POETRY
+
+            PROSE
+
+            NOVEL
+
+            NOVELLA
+
+            SHORT STORY
+
+            GRAPHIC NOVEL
+
+            COMIC BOOKS
+
+            FICTION
+
+            NON-FICTION
+
+            DRAMA
+
+        VISUAL ART
+            2D VISUAL ART
+                DRAWING
+                    ANIMATION
+
+                PAINTING
+
+                PRINTMAKING
+
+                PHOTOGRAPHY
+
+                MOSAICS
+
+                CALLIGRAPHY(LETTER ART)
+
+            3D VISUAL ART
+                ARCHITECTURE
+
+                POTTERY
+
+                CERAMICS
+
+                SCULPTURE
+
+                TEXTILE ARTS
+
+            CONCEPTUAL ART
+
+        RECORDED MUSIC
+            CLASSICAL
+
+            FOLK
+
+            BLUES
+
+            BLUEGRASS
+
+            COUNTRY
+
+            ROCK AND ROLL
+
+            PUNK
+
+            POP
+
+            GOSPEL
+
+            SOUL
+
+            RHYTHM AND BLUES (R&B)
+
+            RAGTIME
+
+            JAZZ
+
+            FUNK
+
+            HIP HOP
+
+            TRAP
+
+            EDM
+
+            HOUSE
+
+            SYNTH POP
+
+            ELECTRO FUNK
+
+            TECHNO
+
+            RAGGAE
+
+        PERFORMING ART
+            **CORE OF PERFORMING ART'S**
+            LIVE MUSIC/ MUSIC PERFORMANCE
+
+            **CORE OF PERFORMING ART'S**
+            DANCE
+
+            **CORE OF PERFORMING ART'S**
+            THEATER
+                DRAMA
+
+                PLAY
+
+            **THE REST**
+            ACROBATICS
+
+            BALLET
+
+            CIRCUS SKILLS
+
+            CLOWN
+
+            GYMNASTICS
+
+            MAGIC
+
+            MIME
+
+            OPERA
+
+            PROFESSIONAL WRESTLING
+
+            PUPPETRY
+
+            PUBLIC SPEAKING
+
+            STAND-UP COMEDY
+
+            STREET PERFORMANCE
+
+            VENTRILOQUISM
+
+        MULTIDISCIPLINARY ART
+            FASHION
+
+            FILM/MOTION PICTURES
+               CINEMA/ MOVIES
+
+               TELEVISION/TV SHOWS
+
+            NEW MEDIA ART
+                INTERACTIVE ART
+                    VIDEO GAMES
+
+                    VIRTUAL REALITY EXPERIENCES
+
+                GENERATIVE ART
+                    ARTIFICAL INTELLIGENCE ART
+            
+    APPLIED ARTS
+        AUTOMOTIVE DESIGN
+
+        ARCHITECTURE
+
+        INDUSTRIAL DESIGN
+
+        INTERIOR DESIGN
+
+        FURNITURE DESIGN
+
+        FASHION DESIGN
+
+        TEXTILE ART
+
+        GRAPHIC DESIGN
+
+        CALLIGRAPHY (LETTER DESIGN)
+
+        CARTOGRAPHIC DESIGN (MAP DESIGN)
+        
+        CRAFTS???
+
+        CERAMIC ART???
+
+        SCULPTURE???

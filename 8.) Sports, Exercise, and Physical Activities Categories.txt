@@ -1,4 +1,5 @@
 Sports, Exercise, and Physical Activities Categories
+
 Sports
     Team Sports
         Ball Sports

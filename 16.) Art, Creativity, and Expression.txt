@@ -1,181 +1,182 @@
-ART
-    FINE ARTS
-        LITERARY ART
-            POETRY
+Art, Creativity, and Expression Categories
 
-            PROSE
+    Fine arts
+        Literary art
+            Poetry
 
-            NOVEL
+            Prose
 
-            NOVELLA
+            Novel
 
-            SHORT STORY
+            Novella
 
-            GRAPHIC NOVEL
+            Short story
 
-            COMIC BOOKS
+            Graphic novel
 
-            FICTION
+            Comic books
 
-            NON-FICTION
+            Fiction
 
-            DRAMA
+            Non-fiction
 
-        VISUAL ART
-            2D VISUAL ART
-                DRAWING
-                    ANIMATION
+            Drama
 
-                PAINTING
+        Visual art
+            2d visual art
+                Drawing
+                    Animation
 
-                PRINTMAKING
+                Painting
 
-                PHOTOGRAPHY
+                Printmaking
 
-                MOSAICS
+                Photography
 
-                CALLIGRAPHY(LETTER ART)
+                Mosaics
 
-            3D VISUAL ART
-                ARCHITECTURE
+                Calligraphy(letter art)
 
-                POTTERY
+            3d visual art
+                Architecture
 
-                CERAMICS
+                Pottery
 
-                SCULPTURE
+                Ceramics
 
-                TEXTILE ARTS
+                Sculpture
 
-            CONCEPTUAL ART
+                Textile arts
 
-        RECORDED MUSIC
-            CLASSICAL
+            Conceptual art
 
-            FOLK
+        Recorded music
+            Classical
 
-            BLUES
+            Folk
 
-            BLUEGRASS
+            Blues
 
-            COUNTRY
+            Bluegrass
 
-            ROCK AND ROLL
+            Country
 
-            PUNK
+            Rock and roll
 
-            POP
+            Punk
 
-            GOSPEL
+            Pop
 
-            SOUL
+            Gospel
 
-            RHYTHM AND BLUES (R&B)
+            Soul
 
-            RAGTIME
+            Rhythm and blues (r&b)
 
-            JAZZ
+            Ragtime
 
-            FUNK
+            Jazz
 
-            HIP HOP
+            Funk
 
-            TRAP
+            Hip hop
 
-            EDM
+            Trap
 
-            HOUSE
+            Edm
 
-            SYNTH POP
+            House
 
-            ELECTRO FUNK
+            Synth pop
 
-            TECHNO
+            Electro funk
 
-            RAGGAE
+            Techno
 
-        PERFORMING ART
-            **CORE OF PERFORMING ART'S**
-            LIVE MUSIC/ MUSIC PERFORMANCE
+            Raggae
 
-            **CORE OF PERFORMING ART'S**
-            DANCE
+        Performing art
+            **core of performing art's**
+            Live music/ music performance
 
-            **CORE OF PERFORMING ART'S**
-            THEATER
-                DRAMA
+            **core of performing art's**
+            Dance
 
-                PLAY
+            **core of performing art's**
+            Theater
+                Drama
 
-            **THE REST**
-            ACROBATICS
+                Play
 
-            BALLET
+            **the rest**
+            Acrobatics
 
-            CIRCUS SKILLS
+            Ballet
 
-            CLOWN
+            Circus skills
 
-            GYMNASTICS
+            Clown
 
-            MAGIC
+            Gymnastics
 
-            MIME
+            Magic
 
-            OPERA
+            Mime
 
-            PROFESSIONAL WRESTLING
+            Opera
 
-            PUPPETRY
+            Professional wrestling
 
-            PUBLIC SPEAKING
+            Puppetry
 
-            STAND-UP COMEDY
+            Public speaking
 
-            STREET PERFORMANCE
+            Stand-up comedy
 
-            VENTRILOQUISM
+            Street performance
 
-        MULTIDISCIPLINARY ART
-            FASHION
+            Ventriloquism
 
-            FILM/MOTION PICTURES
-               CINEMA/ MOVIES
+        Multidisciplinary art
+            Fashion
 
-               TELEVISION/TV SHOWS
+            Film/motion pictures
+               Cinema/ movies
 
-            NEW MEDIA ART
-                INTERACTIVE ART
-                    VIDEO GAMES
+               Television/tv shows
 
-                    VIRTUAL REALITY EXPERIENCES
+            New media art
+                Interactive art
+                    Video games
 
-                GENERATIVE ART
-                    ARTIFICAL INTELLIGENCE ART
+                    Virtual reality experiences
+
+                Generative art
+                    Artifical intelligence art
             
-    APPLIED ARTS
-        AUTOMOTIVE DESIGN
+    Applied arts
+        Automotive design
 
-        ARCHITECTURAL DESIGN
+        Architectural design
 
-        INDUSTRIAL DESIGN
+        Industrial design
 
-        INTERIOR DESIGN
+        Interior design
 
-        FURNITURE DESIGN
+        Furniture design
 
-        FASHION DESIGN
+        Fashion design
 
-        TEXTILE ART
+        Textile art
 
-        GRAPHIC DESIGN
+        Graphic design
 
-        CALLIGRAPHY (LETTER DESIGN)
+        Calligraphy (letter design)
 
-        CARTOGRAPHIC DESIGN (MAP DESIGN)
+        Cartographic design (map design)
         
-        CRAFTS
+        Crafts
 
-        CERAMIC ART
+        Ceramic art
 
-        SCULPTURE
+        Sculpture

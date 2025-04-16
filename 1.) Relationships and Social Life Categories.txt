@@ -1,69 +1,69 @@
 Relationships and Social Life Categories
-    DATING
-        FIRST DATES
-        GROUP DATES
-        SPEED DATING
-        SINGLES MIXERS
-        DATE NIGHT
-    FRIENDSHIPS
-        FRIEND MEETUPS
-        GAME NIGHT
-        FRIEND REUNIONS
-        HOBBY GROUPS
-        BOOK CLUBS
-    FAMILY
-        FAMILY REUNIONS
-        FAMILY DINNER
-        PARENT-CHILD ACTIVITIES
-        EXTENDED FAMILY GATHERINGS
-        HOLIDAY CELEBRATIONS
-    SOCIAL ACTIVITIES
-        PARTY TYPES
-            BIRTHDAY PARTY
-            SUPER BOWL PARTY
-            HOUSE PARTY
-            DINNER PARTY
-            COCKTAIL PARTY
-            THEMED PARTY
-        COMMUNITY EVENTS
-            BLOCK PARTY
-            NEIGHBORHOOD MEETUP
-            COMMUNITY SERVICE
-            LOCAL CLUB MEETINGS
-        LIVE ENTERTAINMENT
-            MUSIC EVENTS
-                CONCERTS
-                MUSIC FESTIVALS
-                LIVE BANDS AT VENUES
-                ORCHESTRA PERFORMANCES
-                JAZZ CLUBS
-                OPEN MIC NIGHTS
-            PERFORMING ARTS
-                THEATER PRODUCTIONS
-                DANCE PERFORMANCES
-                COMEDY SHOWS
-                IMPROV SHOWS
-                SPOKEN WORD/POETRY READINGS
-            SPORTING EVENTS
-                PROFESSIONAL SPORTS GAMES
-                COLLEGIATE SPORTS
-                WRESTLING/WWE EVENTS
-                BOXING MATCHES
-                MMA FIGHTS
-            OTHER ENTERTAINMENT
-                CIRCUSES
-                MAGIC SHOWS
-                STAND-UP COMEDY
-                DRAG SHOWS
-                CULTURAL PERFORMANCES
-        CELEBRATIONS
-            WEDDING EVENTS
-            GRADUATION CELEBRATIONS
-            ANNIVERSARY PARTIES
-            BABY SHOWERS
-            HOLIDAY GATHERINGS
-    NETWORKING
-        PROFESSIONAL MEETUPS
-        INDUSTRY EVENTS
-        ALUMNI GATHERINGS
-        SOCIAL MIXERS
+    Dating
+        First dates
+        Group dates
+        Speed dating
+        Singles mixers
+        Date night
+    Friendships
+        Friend meetups
+        Game night
+        Friend reunions
+        Hobby groups
+        Book clubs
+    Family
+        Family reunions
+        Family dinner
+        Parent-child activities
+        Extended family gatherings
+        Holiday celebrations
+    Social activities
+        Party types
+            Birthday party
+            Super bowl party
+            House party
+            Dinner party
+            Cocktail party
+            Themed party
+        Community events
+            Block party
+            Neighborhood meetup
+            Community service
+            Local club meetings
+        Live entertainment
+            Music events
+                Concerts
+                Music festivals
+                Live bands at venues
+                Orchestra performances
+                Jazz clubs
+                Open mic nights
+            Performing arts
+                Theater productions
+                Dance performances
+                Comedy shows
+                Improv shows
+                Spoken word/poetry readings
+            Sporting events
+                Professional sports games
+                Collegiate sports
+                Wrestling/wwe events
+                Boxing matches
+                Mma fights
+            Other entertainment
+                Circuses
+                Magic shows
+                Stand-up comedy
+                Drag shows
+                Cultural performances
+        Celebrations
+            Wedding events
+            Graduation celebrations
+            Anniversary parties
+            Baby showers
+            Holiday gatherings
+    Networking
+        Professional meetups
+        Industry events
+        Alumni gatherings
+        Social mixers

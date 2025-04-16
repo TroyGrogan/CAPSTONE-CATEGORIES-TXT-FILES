@@ -1,0 +1,450 @@
+FOOD, COOKING, AND NUTRITION
+1. Introduction
+
+2. Foundational Categories
+
+2.1. Food Groups (Nutritional Basis)
+2.1.1. Fruits
+	Berries
+	100% Fruit Juice
+	Melons
+	Other Fruits
+
+2.1.2. Vegetables
+	Dark-Green Vegetables
+	Red and Orange Vegetables
+	Starchy Vegetables
+	Beans, Peas, and Lentils
+	Other Vegetables
+
+2.1.3. Grains
+	Whole Grains
+	Refined Grains
+
+2.1.4. Protein Foods
+	Meats
+	Poultry
+	Seafood
+	Finfish
+	Shellfish
+	Eggs
+	Beans, Peas, and Lentils
+	Nuts, Seeds, and Soy Products
+
+2.1.5. Dairy
+	Milk
+	Yogurt
+	Cheese
+	Hard Natural Cheeses
+	Soft Cheeses
+	Processed Cheeses
+	Milk-Based Desserts
+	Non-Dairy Calcium Alternatives
+
+2.1.6. Oils
+	Vegetable Oils
+	Nut and Seed Oils
+	Fruit Oils
+	Animal Fats
+
+2.2. Food Sources
+2.2.1. Plant-Based
+	Fruits
+	Vegetables
+	Grains
+	Legumes
+	Nuts
+	Seeds
+	Herbs
+	Spices
+
+2.2.2. Animal-Based
+	Meat
+	Beef
+	Pork
+	Lamb
+	Game
+	Poultry
+	Chicken
+	Turkey
+	Duck
+	Seafood
+	Fish
+	Shellfish
+	Dairy
+	Eggs
+
+2.2.3. Fungi
+	Mushrooms
+	Truffles
+
+
+
+3. Global Culinary Landscape
+3.1. Cuisines by Continent/Region
+
+3.1.1. African Cuisine
+	North African
+	West African
+	East African
+	Central African
+	Southern African
+
+3.1.2. Asian Cuisine
+East Asian
+	Chinese
+	Cantonese
+	Sichuan
+	Hunan
+	Japanese
+	Korean
+	Mongolian
+Southeast Asian
+	Thai
+	Vietnamese
+	Filipino
+	Indonesian
+	Malaysian
+	Singaporean
+	Others
+South Asian
+	Indian
+	Pakistani
+	Bangladeshi
+	Nepali
+	Sri Lankan
+
+Central Asian
+
+West Asian or Middle Eastern
+	Turkish
+	Lebanese
+	Persian
+	Israeli
+	Moroccan
+
+3.1.3. European Cuisine
+Southern European
+	Italian
+	Spanish
+	Greek
+Western European
+	French
+	German
+	British
+Eastern European
+	Polish
+	Russian
+	Ukrainian
+	Nordic or Scandinavian
+	Swedish
+	Norwegian
+	Danish
+
+3.1.4. Cuisine of the Americas
+	North American
+		American
+		Southern
+	
+	New England
+		Cajun/Creole
+	Barbecue
+	Soul Food
+
+	Canadian
+
+	Mexican
+		Street Tacos
+		Mole Sauces
+Central American
+
+South American
+	Brazilian
+	Argentine
+	Peruvian
+	Caribbean
+	Jamaican
+	Cuban
+	Puerto Rican
+
+3.1.5. Oceanian Cuisine
+	Australian
+	New Zealander
+	Pacific Islander
+
+3.2. Ethnic Cuisines
+	Jewish Cuisine
+	Roma Cuisine
+	Other Ethnic Cuisines
+
+
+
+4. The Art of Cooking
+4.1. Cooking Methods
+
+4.1.1. Dry Heat Methods
+Baking
+	Bread Making
+	Sourdough
+	Artisan Breads
+	Quick Breads
+	Flatbreads
+	Pastry
+	French Pastry
+	Pies & Tarts
+	Cookies & Bars
+	Laminated Doughs
+	Cake Decorating
+	Fondant Work
+	Buttercream Techniques
+	Wedding Cakes
+	Chocolate Work
+	Gluten-Free Baking
+	Vegan Baking
+Roasting
+Grilling
+Broiling
+Smoking & Curing
+
+4.1.2. Moist Heat Methods
+	Boiling
+	Simmering
+	Steaming
+	Poaching
+	Braising
+	Sous Vide Cooking
+	Pressure Cooking
+
+4.1.3. Frying
+	Shallow Frying
+	Deep Frying
+	Sautéing
+
+4.1.4. Combination Methods
+	Stir-Frying
+	Stewing
+
+4.2. Culinary Techniques
+	Knife Skills
+	Sauces & Emulsions
+	Fermentation
+	Pastry Arts
+	Charcuterie
+
+4.3. Specialized Cooking
+	Vegan Cooking
+	Vegetarian Cooking
+	Gluten-Free Cooking
+	Dairy-Free Cooking
+	Nut-Free Cooking
+	Low-Sodium Cooking
+	Diabetic-Friendly Cooking
+
+5. Nutrition and Dietary Approaches
+5.1. Macronutrients
+	Carbohydrates
+	Proteins
+	Fats
+	Saturated Fats
+	Unsaturated Fats
+	Monounsaturated
+	Polyunsaturated
+	Omega-3
+	Omega-6
+
+5.2. Micronutrients
+	Vitamins
+	Fat-Soluble (A, D, E, K)
+	Water-Soluble (B vitamins, Vitamin C)
+	Minerals
+	Calcium
+	Iron
+	Potassium
+	Sodium
+	Other Minerals
+
+5.3. Dietary Fiber
+	Soluble Fiber
+	Insoluble Fiber
+
+
+5.4. Dietary Plans and Trends
+	Keto Diet
+	Mediterranean Diet
+	Paleo Diet
+	Whole30
+	Plant-Based/Vegan
+	DASH Diet
+	Low FODMAP
+	Carnivore Diet
+	Intuitive Eating
+	Macro-Based
+	Intermittent Fasting
+	16:8 Method
+	OMAD (One Meal A Day)
+	5:2 Approach
+
+5.5. Nutritional Education
+	Meal Planning
+	Macros Tracking
+	Recipe Adaptation
+	Meal Prep Workshops
+	Reading Food Labels
+	Portion Control
+	Nutrient Optimization
+	Nutrient Density
+	Protein Combining
+	Meat Selection
+	Preparation Methods (with a focus on nutritional impact)
+	Sustainable Seafood
+	Fish Preparation (with a focus on nutritional aspects)
+	Plant-Based Focus (highlighting nutritional benefits)
+	Meat Alternatives (with a focus on nutritional aspects)
+	Nutritional Balance
+	Pescatarian Diet
+	Olive Oil Workshops (highlighting nutritional benefits)
+	Seafood Preparation (highlighting nutritional benefits)
+	Special Dietary Needs
+	Gluten-Free
+	Dairy-Free
+	Nut-Free
+	Low-Sodium
+	Diabetic-Friendly
+
+
+
+6. Beverage Exploration
+6.1. Non-Alcoholic Beverages
+	Water
+	Still
+	Sparkling
+	Mineral
+	Juices
+	Fruit
+	Vegetable
+	Blended
+	Coffee
+	Brewing Methods
+	Bean Selection
+	Tasting Workshops
+	Espresso
+	Latte
+	Cappuccino
+	Americano
+	Other Coffee Drinks
+	Tea
+	Tea Ceremonies
+	Variety Tastings
+	Herbal Blending
+	Black Tea
+	Green Tea
+	White Tea
+	Oolong Tea
+	Herbal Tea
+	Soft Drinks
+	Carbonated Options
+	Sodas
+	Sports Drinks
+	Energy Drinks
+	Milk
+	Dairy
+	Plant-Based (Almond, Soy, Oat, etc.)
+	Smoothies
+	Non-Alcoholic Versions of Alcoholic Drinks
+	Non-Alcoholic Beer
+	De-Alcoholized Wine
+	Non-Alcoholic Cocktails
+	Fermented Drinks
+	Kombucha Brewing
+	Fresh Juices
+	Mocktail Creation
+
+6.2. Alcoholic Beverages
+	Beer
+	Brewing Workshops
+	Tasting Flights
+	Food Pairings
+	Ales
+	Lagers
+	Stouts
+	IPAs
+	Wheat Beers
+	Lambics
+	Other Beer Types
+	Wine
+	Regional Tastings
+	Food Pairings
+	Vineyard Visits
+	Red Wine
+	White Wine
+	Rosé Wine
+	Sparkling Wine
+	Dessert Wine
+	Fortified Wine
+	Other Wine Types
+	Spirits
+	Spirit Education
+	Vodka
+	Gin
+	Rum
+	Tequila
+	Whiskey
+	Brandy
+	Other Spirits
+	Cocktails
+	Mixology Basics
+	Classic Cocktails
+	Cocktails by Base Spirit
+	Cocktails by Style
+	Cider
+	Mead
+	Drinking Culture
+
+
+
+7. Dining and Food Culture
+	7.1. Restaurant Types
+	Fine Dining
+	Casual Dining
+	Fast Casual
+	Fast Food
+	Ethnic Restaurants
+	Family Style Restaurants
+	Cafes and Diners
+	Coffeehouses
+	Tea Houses
+	Pubs and Gastropubs
+	Buffets
+	Food Trucks
+	Chef's Table Experiences
+	Street Food Tours
+	Other Restaurant Types
+
+7.2. Dining Experiences
+	Food Festivals
+	Farmers Markets
+	Cookery Schools
+	Restaurant Meetups
+
+7.3. Gastronomy
+	Food History
+	Food and Culture
+	Dining Etiquette
+	Molecular Gastronomy
+
+
+8. Food Sustainability and Ethical Considerations
+
+8.1. Sustainable Practices
+	Farm-to-Table
+	Seasonal Eating
+	Food Waste Reduction
+	Local Sourcing
+	Urban Farming
+	Ethical Sourcing
+	Sustainable Agriculture
+
+8.2. Ethical Food Choices
+	Animal Welfare
+	Fair Trade
+	Environmental Impact of Food Production

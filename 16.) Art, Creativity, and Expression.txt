@@ -1,7 +1,7 @@
-Art, Creativity, and Expression Categories
+Art, Creativity, And Expression Categories
 
-    Fine arts
-        Literary art
+    Fine Arts
+        Literary Art
             Poetry
 
             Prose
@@ -10,11 +10,11 @@ Art, Creativity, and Expression Categories
 
             Novella
 
-            Short story
+            Short Story
 
-            Graphic novel
+            Graphic Novel
 
-            Comic books
+            Comic Books
 
             Fiction
 
@@ -22,8 +22,8 @@ Art, Creativity, and Expression Categories
 
             Drama
 
-        Visual art
-            2d visual art
+        Visual Art
+            2D Visual Art
                 Drawing
                     Animation
 
@@ -35,9 +35,9 @@ Art, Creativity, and Expression Categories
 
                 Mosaics
 
-                Calligraphy(letter art)
+                Calligraphy(Letter Art)
 
-            3d visual art
+            3D Visual Art
                 Architecture
 
                 Pottery
@@ -46,11 +46,11 @@ Art, Creativity, and Expression Categories
 
                 Sculpture
 
-                Textile arts
+                Textile Arts
 
-            Conceptual art
+            Conceptual Art
 
-        Recorded music
+        Recorded Music
             Classical
 
             Folk
@@ -61,7 +61,7 @@ Art, Creativity, and Expression Categories
 
             Country
 
-            Rock and roll
+            Rock And Roll
 
             Punk
 
@@ -71,7 +71,7 @@ Art, Creativity, and Expression Categories
 
             Soul
 
-            Rhythm and blues (r&b)
+            Rhythm And Blues (R&B)
 
             Ragtime
 
@@ -79,7 +79,7 @@ Art, Creativity, and Expression Categories
 
             Funk
 
-            Hip hop
+            Hip Hop
 
             Trap
 
@@ -87,33 +87,29 @@ Art, Creativity, and Expression Categories
 
             House
 
-            Synth pop
+            Synth Pop
 
-            Electro funk
+            Electro Funk
 
             Techno
 
             Raggae
 
-        Performing art
-            **core of performing art's**
-            Live music/ music performance
+        Performing Art
+            Live Music/Music Performance
 
-            **core of performing art's**
             Dance
 
-            **core of performing art's**
             Theater
                 Drama
 
                 Play
 
-            **the rest**
             Acrobatics
 
             Ballet
 
-            Circus skills
+            Circus Skills
 
             Clown
 
@@ -125,58 +121,58 @@ Art, Creativity, and Expression Categories
 
             Opera
 
-            Professional wrestling
+            Professional Wrestling
 
             Puppetry
 
-            Public speaking
+            Public Speaking
 
-            Stand-up comedy
+            Stand-up Comedy
 
-            Street performance
+            Street Performance
 
             Ventriloquism
 
-        Multidisciplinary art
+        Multidisciplinary Art
             Fashion
 
-            Film/motion pictures
-               Cinema/ movies
+            Film/motion Pictures
+               Cinema/ Movies
 
-               Television/tv shows
+               Television/tv Shows
 
-            New media art
-                Interactive art
-                    Video games
+            New Media Art
+                Interactive Art
+                    Video Games
 
-                    Virtual reality experiences
+                    Virtual Reality Experiences
 
-                Generative art
-                    Artifical intelligence art
+                Generative Art
+                    Artificial Intelligence Art
             
-    Applied arts
-        Automotive design
+    Applied Arts
+        Automotive Design
 
-        Architectural design
+        Architectural Design
 
-        Industrial design
+        Industrial Design
 
-        Interior design
+        Interior Design
 
-        Furniture design
+        Furniture Design
 
-        Fashion design
+        Fashion Design
 
-        Textile art
+        Textile Art
 
-        Graphic design
+        Graphic Design
 
-        Calligraphy (letter design)
+        Calligraphy (Letter Design)
 
-        Cartographic design (map design)
+        Cartographic Design (Map Design)
         
         Crafts
 
-        Ceramic art
+        Ceramic Art
 
         Sculpture

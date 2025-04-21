@@ -4,7 +4,7 @@ Sports
     Team Sports
         Ball Sports
             American Football
-            Football (Soccer)
+            Football (American Soccer)
             Basketball
             Volleyball
                 Indoor Volleyball

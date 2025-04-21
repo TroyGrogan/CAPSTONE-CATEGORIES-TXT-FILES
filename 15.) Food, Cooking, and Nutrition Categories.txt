@@ -797,6 +797,7 @@ Beverage Exploration
 				AeroPress
 				Chemex
 				Cold Brew
+				Flash Brew
 			Espresso-Based Drinks
 				Espresso
 				Single Shot
@@ -845,7 +846,14 @@ Beverage Exploration
 			Coffee with Additives
 				Red-Eye Coffee
 				Black-Eye Coffee
-				Dead-Eye Coffee	
+				Dead-Eye Coffee
+			Coffee Combinations
+				Coffee with milk
+				Coffee with condensed milk
+				Coffee with coconut milk
+				Coffee with tea
+				Slow-brewed and espresso
+				Liqueur coffee
 		Sports Drinks
 			Gatorade
 			Powerade

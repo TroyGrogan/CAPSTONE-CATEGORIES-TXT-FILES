@@ -91,10 +91,10 @@
                 ✍️ Copywriting
                 🎓 Academic Writing
             ✏️ Editing & Revision
-                 ✏️ Self-Editing Techniques
-                 ✏️ Peer Review Methods
-                 ✏️ Professional Editing Skills
-                 ✏️ Publishing Preparation
+                ✏️ Self-Editing Techniques
+                ✏️ Peer Review Methods
+                ✏️ Professional Editing Skills
+                ✏️ Publishing Preparation
         🎭 Performing Arts
             🎵 Music Skills
                 🎵 Music Lessons
@@ -123,24 +123,24 @@
             🍳 Cooking Classes
                 🍲🍳 Cuisine-Specific Techniques
                 🎂 Baking & Pastry
-                 🧑‍🍳🛠️ Cooking Methods
+                🧑‍🍳🛠️ Cooking Methods
                 🔪 Knife Skills
-                 🔬🍲 Food Science
-                 🥗🧑‍🍳 Nutrition-Focused Cooking
-                 🌿 Plant-Based Cooking
-                 🍺 Fermentation
-                 🏺🧊 Preservation Techniques
+                🔬🍲 Food Science
+                🥗🧑‍🍳 Nutrition-Focused Cooking
+                🌿 Plant-Based Cooking
+                🍺 Fermentation
+                🏺🧊 Preservation Techniques
             🍹 Beverage Arts
-                ☕ Coffee Brewing
+                ☕️ Coffee Brewing
                 🍵 Tea Cultivation
                 🍹 Mixology
                 🍷 Wine Appreciation
                 🍺 Craft Beer Knowledge
             🍽️ Food Presentation
-                 🍽️🎨 Plating Techniques
-                 📸🍽️ Food Photography
-                 📜 Menu Design
-                 🍎📝 Food Styling
+                🍽️🎨 Plating Techniques
+                📸🍽️ Food Photography
+                📜 Menu Design
+                🍎📝 Food Styling
     🛠️ Practical Skills
         🏠 Home & Lifestyle
             ✂️ DIY Crafts
@@ -160,7 +160,7 @@
                     📄🦢 Origami
                 🖼️ Home Decor
                     🛋️ Upholstery
-                     🛋️📐 Interior Design Basics
+                    🛋️📐 Interior Design Basics
                     ♻️ Upcycling
             🔧 Repair & Maintenance
                 🏠 Home Repair
@@ -170,13 +170,13 @@
                     🎨 Painting & Finishing
                 🚗 Vehicle Maintenance
                      🚗🔧 Basic Auto Repair
-                    🚲 Bicycle Maintenance
+                     🚲 Bicycle Maintenance
                      ⚙️🔧 Small Engine Repair
                 💡 Electronics Repair
                      ❓💡 Troubleshooting
                      🔥🔩 Basic Soldering
                      💻🔩 Computer Hardware
-                 🔧🏠 Appliance Maintenance
+                🔧🏠 Appliance Maintenance
             🏞️ Outdoor Skills
                 🌱 Gardening
                 🌳 Landscaping
@@ -192,8 +192,8 @@
                  👥🤝 Stakeholder Management
             💰 Financial Literacy
                  💰👤 Personal Finance
-                💸 Budgeting
-                📈 Investment Basics
+                 💸 Budgeting
+                 📈 Investment Basics
                  🧾💵 Tax Planning
                  👵👴💰 Retirement Planning
             🗂️ Organization Systems
@@ -203,8 +203,8 @@
                  📈🔄 Process Development
             🗣️ Presentation Skills
                  🖼️🗣️ Slide Design
-                🗣️ Public Speaking
-                 data_visualization Data Visualization
+                 🗣️ Public Speaking
+                 📊👀 Data Visualization
                  🗣️💼 Storytelling for Business
     🤝 Soft Skills & Human Development
         🗣️ Communication Training

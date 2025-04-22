@@ -47,6 +47,7 @@
             🏆 Sporting Events
                 🏅 Professional Sports Games
                 🎓 Collegiate Sports
+                🏁 Motorsports
                 🤼 Wrestling/WWE Events
                 🥊 Boxing Matches
                 🥋 MMA Fights
@@ -56,6 +57,8 @@
                 🎤 Stand-up Comedy
                 🏳️‍🌈 Drag Shows
                 🌍 Cultural Performances
+                🛻 Monster Jam
+                🏰 Disney On Ice
         🎊 Celebrations
             💍 Wedding Events
             🎓 Graduation Celebrations

@@ -1,0 +1,178 @@
+🎨 Art, Creativity, And Expression Categories
+
+    🖼️ Fine Arts
+        📚 Literary Art
+            ✍️ Poetry
+
+            📖 Prose
+
+            📚 Novel
+
+            📖 Novella
+
+            📄 Short Story
+
+            📖 Graphic Novel
+
+            💥 Comic Books
+
+            💭 Fiction
+
+            📰 Non-fiction
+
+            🎭 Drama
+
+        🎨 Visual Art
+            🖼️ 2D Visual Art
+                ✏️ Drawing
+                    🎬 Animation
+
+                🎨 Painting
+
+                📠 Printmaking
+
+                📸 Photography
+
+                🏺 Mosaics
+
+                🖋️ Calligraphy(Letter Art)
+
+            🗿 3D Visual Art
+                🏛️ Architecture
+
+                🏺 Pottery
+
+                🏺 Ceramics
+
+                🗿 Sculpture
+
+                🧶 Textile Arts
+
+            💡 Conceptual Art
+
+        🎵 Recorded Music
+            🎻 Classical
+
+            🪕 Folk
+
+            🎷 Blues
+
+            🪕 Bluegrass
+
+            🤠 Country
+
+            🎸 Rock And Roll
+
+            🤘 Punk
+
+            🎤 Pop
+
+            ⛪ Gospel
+
+            🎤 Soul
+
+            🎤 Rhythm And Blues (R&B)
+
+            🎹 Ragtime
+
+            🎷 Jazz
+
+            🕺 Funk
+
+            🎤 Hip Hop
+
+            🎧 Trap
+
+            🎧 Edm
+
+            🏠 House
+
+            🎹 Synth Pop
+
+            🎧 Electro Funk
+
+            🎧 Techno
+
+            🇯🇲 Raggae
+
+        🎭 Performing Art
+            🎵 Live Music/Music Performance
+
+            💃 Dance
+
+            🎭 Theater
+                🎭 Drama
+
+                🎬 Play
+
+            🤸 Acrobatics
+
+            🩰 Ballet
+
+            🎪 Circus Skills
+
+            🤡 Clown
+
+            🤸 Gymnastics
+
+            ✨ Magic
+
+            🤫 Mime
+
+            🎤 Opera
+
+            🤼 Professional Wrestling
+
+            🧸 Puppetry
+
+            🗣️ Public Speaking
+
+            🎤 Stand-up Comedy
+
+            🤸 Street Performance
+
+            🗣️ Ventriloquism
+
+        🌐 Multidisciplinary Art
+            👗 Fashion
+
+            🎬 Film/motion Pictures
+               🎬 Cinema/ Movies
+
+               📺 Television/tv Shows
+
+            💻 New Media Art
+                🖱️ Interactive Art
+                    🎮 Video Games
+
+                    🕶️ Virtual Reality Experiences
+
+                🤖 Generative Art
+                    🤖 Artificial Intelligence Art
+            
+    🛠️ Applied Arts
+        🚗 Automotive Design
+
+        🏛️ Architectural Design
+
+        🏭 Industrial Design
+
+        🛋️ Interior Design
+
+        🛋️ Furniture Design
+
+        👗 Fashion Design
+
+        🧶 Textile Art
+
+        📐 Graphic Design
+
+        🖋️ Calligraphy (Letter Design)
+
+        🗺️ Cartographic Design (Map Design)
+        
+        ✂️ Crafts
+
+        🏺 Ceramic Art
+
+        🗿 Sculpture 
